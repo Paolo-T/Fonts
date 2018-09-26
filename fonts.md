@@ -17,6 +17,7 @@
 * Univers
 * Trade Gothic
 * Bembo
+* Bebas
 * Bickham Script
 * Bodoni
 * Caslon
@@ -25,5 +26,6 @@
 * Courier
 * Memphis
 * Mrs.Eaves
+* Museo Slab
 * Times New Roman 
 * Trajan
