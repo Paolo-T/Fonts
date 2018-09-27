@@ -3,30 +3,32 @@
 # Fonts
 
 * Akzident Grotesk
+* Avant Garde
 * Avenir
-* Bell Gothic
-* Din
-* Gill Sans
-* Gotham
-* Franklin Gothic
-* Frutiger
-* Futura
-* Helvetica
-* Meta
-* OCRA/OCRB
-* Univers
-* Trade Gothic
-* Bembo
 * Bebas
+* Bell Gothic
+* Bembo
 * Bickham Script
 * Bodoni
 * Caslon
-* Garamond
 * Clarendon
 * Courier
+* Din Mittelschrift
+* Franklin Gothic
+* Frutiger
+* Futura
+* Garamond
+* Gill Sans
+* Gotham
+* Helvetica
+* Letter Gothic
 * Memphis
+* Meta
 * Mrs.Eaves
 * Museo Slab
-* Times New Roman 
+* OCRA/OCRB
+* Sabon
+* Times New Roman
+* Trade Gothic
 * Trajan
-* 
+* Univers
