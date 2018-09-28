@@ -32,3 +32,8 @@
 * Trade Gothic
 * Trajan
 * Univers
+
+
+# Coding fonts 
+
+* Fira code
