@@ -1,6 +1,6 @@
 
 
-# Fonts
+# Typeface
 
 * Akzident Grotesk
 * Avant Garde
@@ -34,6 +34,6 @@
 * Univers
 
 
-# Coding fonts 
+# for coding
 
-* Fira code 
+* Fira code
