@@ -12,6 +12,7 @@
 * Bodoni
 * Caslon
 * Clarendon
+* Cooper light
 * Courier
 * Din Mittelschrift
 * Franklin Gothic
