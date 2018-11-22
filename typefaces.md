@@ -33,13 +33,11 @@
 * Trade Gothic
 * Trajan
 * Univers
-
+* Maitree
+* Montserrat
 
 # for coding
 
 * Fira code
 
-# latest
 
-* Maitree
-* Montserrat
