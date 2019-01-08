@@ -34,6 +34,7 @@
 * Trajan
 * Univers
 * Maitree
+* Raleway
 * Montserrat
 
 # for coding
