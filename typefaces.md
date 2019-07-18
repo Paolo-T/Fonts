@@ -11,6 +11,7 @@
 * Bickham Script
 * Bodoni
 * Caslon
+* Circular
 * Clarendon
 * Cooper light
 * Courier
@@ -22,26 +23,27 @@
 * Gibson
 * Gill Sans
 * Gotham
-* Helvetica
 * Halyard Display
+* Helvetica
 * IBM Plex Sans
 * Letter Gothic
+* Maitree
 * Memphis
 * Meta
+* Montserrat
 * Mrs.Eaves
 * Museo Slab
 * Neue Haas Grottesk
 * OCRA/OCRB
 * Proxima Nova
+* Raleway
+* Roboto
+* Rockwell
 * Sabon
 * Times New Roman
 * Trade Gothic
 * Trajan
 * Univers
-* Maitree
-* Raleway
-* Montserrat
-* Rockwell
 
 # for coding
 
