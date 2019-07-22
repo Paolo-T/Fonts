@@ -11,6 +11,7 @@
 * Bickham Script
 * Bodoni
 * Caslon
+* Cereal (Airbnb)
 * Circular
 * Clarendon
 * Cooper light
