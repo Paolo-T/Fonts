@@ -12,6 +12,7 @@
 * Bodoni
 * Caslon
 * Cereal (Airbnb)
+* Century
 * Circular
 * Clarendon
 * Cooper light
@@ -23,12 +24,13 @@
 * Garamond
 * Gibson
 * Gill Sans
-* Google Sans (Google)
+* Google Sans (Google - size optimized version of product sans)
 * Gotham
 * Halyard Display
-* Helvetica
+* Helvetica neue
 * IBM Plex Sans
 * Letter Gothic
+* Lucida Grande
 * Maitree
 * Memphis
 * Meta
@@ -37,6 +39,7 @@
 * Museo Slab
 * Neue Haas Grottesk
 * OCRA/OCRB
+* Product Sans (Google)
 * Proxima Nova
 * Raleway
 * Roboto
