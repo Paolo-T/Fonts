@@ -23,6 +23,7 @@
 * Garamond
 * Gibson
 * Gill Sans
+* Google Sans (Google)
 * Gotham
 * Halyard Display
 * Helvetica
