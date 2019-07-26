@@ -10,6 +10,7 @@
 * Bembo
 * Bickham Script
 * Bodoni
+* Calibre
 * Caslon
 * Cereal (Airbnb)
 * Century
@@ -22,6 +23,7 @@
 * Frutiger
 * Futura
 * Garamond
+* Georgia
 * Gibson
 * Gill Sans
 * Google Sans (Google - size optimized version of product sans)
@@ -39,6 +41,7 @@
 * Museo Slab
 * Neue Haas Grottesk
 * OCRA/OCRB
+* Prata
 * Product Sans (Google)
 * Proxima Nova
 * Raleway
