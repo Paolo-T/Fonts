@@ -46,6 +46,7 @@
 * Meta
 * Montserrat
 * Neue Haas Grottesk
+* OCRA/OCRB
 * Product Sans (Google)
 * Proxima Nova
 * Raleway
@@ -58,11 +59,6 @@
 * Memphis
 * Museo Slab
 * Rockwell
-
-
-### MONOSPACED
-
-* OCRA/OCRB
 
 
 ### CODING
