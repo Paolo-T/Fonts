@@ -2,7 +2,7 @@
 
 # Typeface
 
-# Serif
+### Serif
 * Bembo
 * Bodoni
 * Caslon
@@ -21,7 +21,7 @@
 * Times New Roman
 * Trajan
 
-# Sans Serif
+### Sans Serif
 
 * Akzident Grotesk
 * Avant Garde
@@ -53,19 +53,19 @@
 * Trade Gothic
 * Univers
 
-# Slab Serif
+### Slab Serif
 
 * Memphis
 * Museo Slab
 * Rockwell
 
 
-# Monospaced
+### Monospaced
 
 * OCRA/OCRB
 
 
-# for coding
+### for coding
 
 * Fira code
 
