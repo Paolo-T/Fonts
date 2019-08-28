@@ -1,6 +1,6 @@
 
 
-# Typeface
+# Typeface Collection
 
 ### SERIF
 * Bembo
