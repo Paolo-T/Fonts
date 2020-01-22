@@ -41,14 +41,12 @@
 * Gotham
 * Halyard Display
 * Helvetica neue
-* IBM Plex Sans
 * Lucida Grande
 * Meta
 * Montserrat
 * Neue Haas Grottesk
 * OCRA/OCRB
 * Product Sans (Google)
-* Proxima Nova
 * Raleway
 * Roboto
 * Trade Gothic
@@ -59,7 +57,13 @@
 * Memphis
 * Museo Slab
 * Rockwell
+* IBM Plex Sans
 
+
+### UI
+* Open Sans
+* Montserrat
+* Proxima Nova
 
 ### CODING
 
