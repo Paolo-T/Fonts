@@ -65,10 +65,15 @@
 ### UI
 * Open Sans<br>
   __Best used for:__ Websites and Mobile Apps for prolonged usage and legibility.
-  Open Sans is easy on eyes and can be good for regular consumption.
+  Open Sans is easy on eyes and can be good for regular consumption.<br>
   __Best paired with:__ Montserrat, Brandon Grotesque, Playfair Display, Georgia and Source Sans Pro
 
-* Montserrat
+* Montserrat<br>
+  __Best paired with:__ Open Sans, Source Sans Pro, Roboto Slab, Gill Sans and Lora
+
+* Playfair Display<br>
+  __Best paired with:__ Open Sans, Lato, Roboto , Georgia, Museo Sans and Proxima Nova
+
 * Proxima Nova
 
 ### CODING
