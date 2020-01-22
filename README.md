@@ -63,13 +63,17 @@
 
 
 ### UI
+* __Georgia__(serif)<br>
+
+* __Gilroy__<br>
+
+* __Montserrat__<br>
+    _Best paired with:_ Open Sans, Source Sans Pro, Roboto Slab, Gill Sans and Lora
+
 * __Open Sans__<br>
     _Best used for:_ Websites and Mobile Apps for prolonged usage and legibility.
     Open Sans is easy on eyes and can be good for regular consumption.<br>
     _Best paired with:_ Montserrat, Brandon Grotesque, Playfair Display, Georgia and Source Sans Pro
-
-* __Montserrat__<br>
-    _Best paired with:_ Open Sans, Source Sans Pro, Roboto Slab, Gill Sans and Lora
 
 * __Playfair Display__<br>
     _Best paired with:_ Open Sans, Lato, Roboto , Georgia, Museo Sans and Proxima Nova
