@@ -27,7 +27,8 @@
 
 * Akzident Grotesk
 * Avant Garde
-* Avenir
+* Avenir<br>
+  __Pairs well with:__ Minion, Georgia, Helvetica
 * Bebas
 * Bell Gothic
 * Calibre
@@ -86,5 +87,7 @@
 ### CODING
 
 * Fira code
+* Dank Mono
+* Victor Mono
 
 
