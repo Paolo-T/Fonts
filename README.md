@@ -1,8 +1,5 @@
-# Typefaces
-
-
-
 # Typeface Collection
+
 
 ### SERIF
 * Bembo
