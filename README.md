@@ -22,6 +22,7 @@
 * Sabon
 * Times New Roman
 * Trajan
+* Merryweather
 
 ### SANS SERIF
 
