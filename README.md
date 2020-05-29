@@ -43,6 +43,7 @@
 * Gill Sans
 * Google Sans (Google - size optimized version of product sans)
 * Gotham
+* Graphik
 * Halyard Display
 * Helvetica neue
 * Lucida Grande
