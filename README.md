@@ -1,8 +1,5 @@
-# Typefaces
-
-
-
 # Typeface Collection
+
 
 ### SERIF
 * Bembo
@@ -14,6 +11,7 @@
 * Century
 * Garamond
 * Georgia
+* GtSectra
 * Letter Gothic
 * Maitree
 * Miller Display
