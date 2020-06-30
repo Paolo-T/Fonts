@@ -30,6 +30,7 @@
 * Avant Garde
 * Avenir<br>
   __Pairs well with:__ Minion, Georgia, Helvetica
+* Bison
 * Bebas
 * Bell Gothic
 * Calibre
