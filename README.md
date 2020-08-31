@@ -56,6 +56,12 @@
 * Trade Gothic
 * Univers
 
+### DISPLAY
+* Mazius Display
+* Saol Display
+* RL Unno
+
+
 ### SLAB SERIF
 
 * Memphis
