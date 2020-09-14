@@ -24,6 +24,7 @@
 
 ### SANS SERIF
 
+* Abel
 * Akzident Grotesk
 * Avant Garde
 * Avenir<br>
