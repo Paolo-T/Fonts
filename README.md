@@ -38,6 +38,7 @@
 * Calibre
 * Cereal (Airbnb)
 * Circular
+* DIN Condensed web
 * Din Mittelschrift
 * Franklin Gothic
 * Frutiger
