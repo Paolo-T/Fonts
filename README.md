@@ -3,6 +3,8 @@
 
 ### SERIF
 * Ambroise std
+* Abril
+* Abril Display
 * Bembo
 * Bodoni
 * Caslon
