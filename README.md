@@ -9,6 +9,7 @@
 * Bodoni
 * Caslon
 * Calluna
+* Cinzel
 * Clarendon
 * Courier
 * Cooper light
@@ -42,6 +43,8 @@
 * Circular
 * DIN Condensed web
 * Din Mittelschrift
+* Domine
+* Extenda
 * Franklin Gothic
 * Frutiger
 * Futura
@@ -51,11 +54,13 @@
 * Gotham
 * Graphik
 * Halyard Display
+* Heebo
 * Helvetica neue
 * Lucida Grande
 * Meta
 * Montserrat
 * Neue Haas Grottesk
+* Nunito Sans
 * OCRA/OCRB
 * Product Sans (Google)
 * Raleway
