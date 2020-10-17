@@ -14,6 +14,7 @@
 * Courier
 * Cooper light
 * Century
+* Domine
 * Garamond
 * Georgia
 * GtSectra
@@ -27,6 +28,7 @@
 * Trajan
 * Merryweather
 * Unna
+* YoungSerif
 
 ### SANS SERIF
 
@@ -43,7 +45,6 @@
 * Circular
 * DIN Condensed web
 * Din Mittelschrift
-* Domine
 * Extenda
 * Franklin Gothic
 * Frutiger
