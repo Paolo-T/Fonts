@@ -33,6 +33,7 @@
 ### SANS SERIF
 
 * Abel
+* Abril Fatface
 * Akzident Grotesk
 * Avant Garde
 * Avenir<br>
@@ -46,6 +47,7 @@
 * DIN Condensed web
 * Din Mittelschrift
 * Extenda
+* Epilogue
 * Franklin Gothic
 * Frutiger
 * Futura
@@ -63,6 +65,7 @@
 * Neue Haas Grottesk
 * Nunito Sans
 * OCRA/OCRB
+* Oswald
 * Product Sans (Google)
 * Raleway
 * Roboto
