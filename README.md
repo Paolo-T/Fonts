@@ -69,6 +69,7 @@
 * Product Sans (Google)
 * Raleway
 * Roboto
+* Tiempos
 * Trade Gothic
 * Univers
 
